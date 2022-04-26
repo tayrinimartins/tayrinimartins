@@ -1,7 +1,7 @@
 Oi👋 Meu nome é Tayrini,
 
 Amo literatura fantástica, jogar um bom MMORPG e sou apaixonada por dados.
-Atualmente, estou estudando Python para aprofundar meu conhecimentos em Data Science, mas gostaria de explorar as potencialidades da linguagem para além da área de dados também.
+Atualmente, estou estudando Python para aprofundar meu conhecimentos em Data Science e Machine Learning, mas gostaria de explorar outras potencialidades da linguagem.
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tayrinimartins/)
